@@ -23,7 +23,6 @@ A React-based frontend is used to visually demonstrate the architecture, request
 - User, Hotel, and Rating management services
 - Service discovery and centralized configuration
 - Database isolation per microservice
-- Dockerized backend services
 
 ## Frontend
 - Built using React
@@ -37,6 +36,7 @@ A React-based frontend is used to visually demonstrate the architecture, request
   - Event-driven communication
   - Real-time hotel activity tracking
   - Location-based event processing
+- Dockerized backend services
 - CI/CD pipeline automation using GitHub Actions
 - API Gateway enhancements (rate limiting, monitoring)
 - Caching using Redis for improved performance
